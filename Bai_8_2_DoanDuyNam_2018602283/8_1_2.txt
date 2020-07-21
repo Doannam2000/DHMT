@@ -1,0 +1,3 @@
+Bài 8.2. Viết chương trình mô phỏng đồ thị hàm số y = cosx - 2 với x[0; 2π] và ảnh
+của đồ thị hàm số trên qua phép đối xứng qua tâm A(0; -1) trên cửa sổ, khung nhìn phù
+hợp, có vẽ hệ trục toạ độ.

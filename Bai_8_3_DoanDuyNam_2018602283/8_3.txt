@@ -1,0 +1,3 @@
+Bài 8.3. Viết chương trình mô phỏng chiếc quạt nan mở đều ra 2 bên và đóng vào,
+chiều dài nan quạt là 25 cm trong phần dán giấy 15cm, phần nan không dán giấy đến
+đinh chốt là 8cm
